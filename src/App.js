@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import SingleColor from './Color';
 import Values from 'values.js';
 
-import styled, {ThemeProvider} from 'styled-components';
+import {ThemeProvider} from 'styled-components';
 import {GlobalStyles, lightTheme, darkTheme} from './globalStyles';
 
 function App() {
