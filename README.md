@@ -1,14 +1,17 @@
 # color-generator
 Practice project made with React Js and React Hooks
 
-## Overview and Learnings
+This is my version of the Color Generator project in ['Code 15 React Projects' course by John Smilga](https://youtu.be/a_7Z7C_JCyo).
 
-handling exceptions
-inline css
-dynamic styling
-copy to clipboard
+### Overview and Learnings
 
-## Resources
+Main React functionality I learned: handling exceptions, inline css, dynamic styling and a copy to clipboard functionality. 
+I made my own setup, styling and added a night mode switch feature using Styled Components to the original idea of the project.
+
+### Live Site
+https://constanzas-color-generator.netlify.app/
+
+### Resources
 
 [Values JS](https://github.com/noeldelgado/values.js)
 ```
