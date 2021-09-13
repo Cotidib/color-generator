@@ -5,7 +5,7 @@ This is my version of the Color Generator project in ['Code 15 React Projects' c
 
 ### Overview and Learnings
 
-Main React functionality I learned: handling exceptions, inline css, dynamic styling and a copy to clipboard functionality. 
+Main React functionalities I learned: handling exceptions, inline css, dynamic styling and a copy to clipboard functionality. 
 I made my own setup, styling and added a night mode switch feature using Styled Components to the original idea of the project.
 
 ### Live Site
